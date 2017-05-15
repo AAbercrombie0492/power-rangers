@@ -1,4 +1,6 @@
 # paretoPOWER
+!['logo'](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/500/851/datas/gallery.jpg)
+
 paretoPOWER was built to address the DSM Same Sun More Power challenge No. 1. It is a hybrid visualization and data analytics platform to assess the financial benefits of a materials solution - such as a coating with anti-reflective and anti-soiling properties - on an existing PV system. We’ve developed four components: a map visualization platform, a soiling estimator, an O&M cost calculator, and financial model that together will help DSM determine the financial viability of their material solution by market through LCOE and payback period analytics. This tool can also be used to determine the tipping point within the lifespan of an existing PV system where a materials coating could result in positive financial benefits.
 
 ## How paretoPOWER Works
