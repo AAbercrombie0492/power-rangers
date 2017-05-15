@@ -45,3 +45,11 @@ python run.py runapp --debug --port=8888
 The port number is arbitrary. It just needs to not already be in use. 
 
 Once the server is running, visit <http://localhost:8888/index.html> in your browser.
+
+## Contributors
+
+- Anthony Abercrombie
+- Austen Saterlee
+- Deborah Brockett
+- Bonaire Le
+- Marc Anoma
